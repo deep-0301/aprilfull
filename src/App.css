@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url(https://i.pinimg.com/originals/f4/72/43/f472437e842cfe0aeebe28f09b3ef2eb.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.form-header h2 {
+  background: rgba(255, 225, 50, 0.5);
+  padding: 5px;
+}
+
+.form-div .btn {
+  margin: 18px;
+}
+
+
+.form-div {
+  padding: 5px;
+  background-color: rgba(255, 225, 50, 0.85);
+  margin-top: 342px;
+}
+
+.footer {
+  background-color: rgba(255, 225, 50, 0.8);
+}
