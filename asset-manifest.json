@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aprilfull/static/css/main.98124bdc.chunk.css",
+    "main.js": "/aprilfull/static/js/main.6b5b2bbc.chunk.js",
+    "main.js.map": "/aprilfull/static/js/main.6b5b2bbc.chunk.js.map",
+    "runtime-main.js": "/aprilfull/static/js/runtime-main.d5748d49.js",
+    "runtime-main.js.map": "/aprilfull/static/js/runtime-main.d5748d49.js.map",
+    "static/js/2.eb7eb38b.chunk.js": "/aprilfull/static/js/2.eb7eb38b.chunk.js",
+    "static/js/2.eb7eb38b.chunk.js.map": "/aprilfull/static/js/2.eb7eb38b.chunk.js.map",
+    "index.html": "/aprilfull/index.html",
+    "static/css/main.98124bdc.chunk.css.map": "/aprilfull/static/css/main.98124bdc.chunk.css.map",
+    "static/js/2.eb7eb38b.chunk.js.LICENSE.txt": "/aprilfull/static/js/2.eb7eb38b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5748d49.js",
+    "static/js/2.eb7eb38b.chunk.js",
+    "static/css/main.98124bdc.chunk.css",
+    "static/js/main.6b5b2bbc.chunk.js"
+  ]
+}
